@@ -1,2 +1,0 @@
-!function(o,e){"object"==typeof exports&&"undefined"!=typeof module?e(exports,require("random")):"function"==typeof define&&define.amd?define(["exports","random"],e):e((o||self).hwrld={},o.random)}(this,function(o,e){function n(o){return o&&"object"==typeof o&&"default"in o?o:{default:o}}var t=/*#__PURE__*/n(e);o.ran=function(){return t.default.float()},o.sayGoodbye=function(){console.log("goodbye")},o.sayHello=function(){console.log("hi")}});
-//# sourceMappingURL=index.umd.js.map
